@@ -1,3 +1,7 @@
+# Death!
+This repository and related projects are archived, frozen in time. They may stop working at any time due to it being completely unmaintained.
+
+I, the owner of this repository, will not answer questions or offer support regarding this particular repository or project.
 # Browser Tab Lagger / Crasher
 This simple script in a .html file will lag or even crash your browser tab or your entire browser!
 # How does this work?
